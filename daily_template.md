@@ -1,0 +1,51 @@
+# 🗓 Daily Planner - {{DATE}}
+
+## 🎯 Top Priorities
+
+1.
+2.
+3.
+
+---
+
+## ✅ Tasks
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+---
+
+## 🏋 Fitness
+
+Workout:
+Duration:
+Notes:
+
+---
+
+## 💼 Work / Projects
+
+-
+
+---
+
+## 🪵 Woodworking / Business
+
+-
+
+---
+
+## 🧠 Notes / Journal
+
+- ***
+
+## 🙌 Wins Today
+
+- ***
+
+## 📅 Prep for Tomorrow
+
+-
